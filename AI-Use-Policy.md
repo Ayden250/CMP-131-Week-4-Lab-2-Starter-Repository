@@ -41,7 +41,7 @@ The instructor may ask you to explain or modify your code. If you cannot explain
 
 If you use GitHub Copilot, ChatGPT, or another AI tool, complete the `AI-Use-Report.md` file.
 
-Record:
+Record:N/a
 
 - The AI tool used.
 - What assistance you requested.
@@ -56,3 +56,4 @@ If you did not use AI, indicate that in the report.
 AI assistance must follow the course academic-integrity policy. Unauthorized or undisclosed AI-generated work may be treated as an academic-integrity violation.
 
 When uncertain whether a particular use is allowed, ask the instructor before using the AI tool.
+
